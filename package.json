@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Blockchain with typescript",
   "main": "index.js",
-  "author": "Brandon Pang",
-  "license": "MIT"
+  "author": "Brandon Pang<webbug@me.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
 }
