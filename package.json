@@ -1,0 +1,8 @@
+{
+  "name": "type-blockchain",
+  "version": "1.0.0",
+  "description": "Blockchain with typescript",
+  "main": "index.js",
+  "author": "Brandon Pang",
+  "license": "MIT"
+}
